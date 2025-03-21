@@ -178,5 +178,3 @@ $$
 
 ---
 
-🔥 ¡Ahora tienes una nota completa sobre PLN, embeddings y atención en un solo lugar! Si quieres expandir alguna sección o agregar más ejemplos, ¡solo dime! 😎🔥
-
