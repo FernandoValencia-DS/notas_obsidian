@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/procesamiento-de-lenguaje-natural-pln/","dgPassFrontmatter":true}
 ---
 
-# 🧠 **Procesamiento de Lenguaje Natural (PLN)**
+#  **Generalidades**
 
 ## 🚀 **¿Qué es el PLN?**
 El **Procesamiento de Lenguaje Natural (PLN)** (en inglés, **Natural Language Processing - NLP**) es un campo de la inteligencia artificial (IA) que permite a las máquinas **comprender, interpretar, generar y responder** en lenguaje humano de manera natural y significativa.
